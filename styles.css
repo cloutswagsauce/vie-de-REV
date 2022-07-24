@@ -1,0 +1,94 @@
+* {
+    background-color: rgb(234,238,244);
+}
+
+.rev {
+    display: block;
+  margin-left: 450px;
+  margin-right: auto;
+  
+  
+    
+}
+
+h1 {
+    text-shadow: 10px 2px purple;
+    
+    color: #112D4E;
+    font-family: 'Lato', sans-serif;
+    font-size: 250px;
+margin-top: 0px;
+    position: absolute;
+ 
+  left: 100px;
+
+background-color: transparent;
+
+    
+    
+}
+
+.main-top {
+    position: relative;
+  text-align: center;
+  color: white;
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-weight: 600;
+    
+    height: auto;
+    align-content: center;
+    
+}
+
+.right {
+    display: flex;
+    margin-right: 25px;
+   
+}
+.left {
+   align-items: inherit;
+    
+    
+}
+
+ul {
+    color: black;
+}
+
+.left ul {
+    font-size: 30px;
+    color: white;
+
+}
+
+.divider {
+    background-color: #112D4E;
+    height: 30px;
+    opacity: 50%;
+}
+
+.music {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    font-family: 'Lato', sans-serif;
+    color: #112D4E;
+}
+
+.music-song {
+display: flex;
+gap: 25px;
+
+margin: 15px;
+}
+
+.music {
+    
+}
